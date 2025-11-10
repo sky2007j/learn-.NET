@@ -1,0 +1,27 @@
+C#.Net – Console Application
+
+[opt] → namespace <name>
+{
+    class <name>
+    {
+        public static void main()
+        {
+            -----
+        }
+    }
+}
+
+1) Namespace:  A namespace is a collection of classes and sub-namespaces.
+
+2) Class:  A class is a collection of data members (variables) and member functions (methods).
+
+3) public / private (Access Specifiers)  :public → Can be accessed from outside the class.
+
+:private → Can be accessed only within the class (used to hide members of a class).
+
+4) static: Members declared as static can be accessed using class name.
+No need to create an object.
+
+5) void :  Means no return value.
+
+6) main:  Entry point function.
